@@ -1,5 +1,8 @@
 # Engineering task
 
+Notice: Do not fork this repo.  Forks are visible to all readers and thus it encourages others to look at your solution.  Either create a clean copy or submit your solution via email.
+<hr>
+
 This project contains code and instructions for completing the Wikimedia
 Foundation's task for the Sr. Software Engineer position (see
 [the job description](https://boards.greenhouse.io/wikimedia/jobs/1608084)).
