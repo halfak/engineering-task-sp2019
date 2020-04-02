@@ -4,12 +4,13 @@ Notice: Do not fork this repo.  Forks are visible to all readers and thus it enc
 <hr>
 
 This project contains code and instructions for completing the Wikimedia
-Foundation's task for the Sr. Software Engineer position (see
-[the job description](https://boards.greenhouse.io/wikimedia/jobs/1608084)).
+Foundation's task for the Software Engineer position (see
+[the job description](https://boards.greenhouse.io/wikimedia/jobs/2117176)).
 
 To complete the task, read the following problem description and implement a
 solution.  Please submit your solution (the code and a one-page description
-how you approached this problem and why) to ahalfaker@wikimedia.org.
+how you approached this problem and why) via the link that was sent to them 
+from their coordinator.
 
 ## The problem
 
