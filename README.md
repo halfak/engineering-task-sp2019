@@ -1,10 +1,12 @@
 # Engineering task
 
-Notice: Do not fork this repo.  Forks are visible to all readers and thus it encourages others to look at your solution.  Either create a clean copy or submit your solution via email.
+**Notice: Do not fork this repo.**  Forks are visible to all readers 
+and thus it encourages others to look at your solution.  Follow the 
+instructions below to submit your solution.
 <hr>
 
 This project contains code and instructions for completing the Wikimedia
-Foundation's task for the Software Engineer position (see
+Foundation's task for the *Software Engineer, Machine Learning* position (see
 [the job description](https://boards.greenhouse.io/wikimedia/jobs/2117176)).
 
 To complete the task, read the following problem description and implement a
