@@ -11,8 +11,8 @@ Foundation's task for the *Software Engineer, Machine Learning* position (see
 
 To complete the task, read the following problem description and implement a
 solution.  Please submit your solution (the code and a one-page description
-how you approached this problem and why) via the link that was sent to them 
-from their coordinator.
+how you approached this problem and why) via the link that was sent to you 
+from your coordinator.
 
 Please send any questions you have to ahalfaker@wikimedia.org
 
