@@ -14,6 +14,8 @@ solution.  Please submit your solution (the code and a one-page description
 how you approached this problem and why) via the link that was sent to them 
 from their coordinator.
 
+Please send any questions you have to ahalfaker@wikimedia.org
+
 ## The problem
 
 The [Scoring Platform team](https://www.mediawiki.org/wiki/Wikimedia_Scoring_Platform_team)
